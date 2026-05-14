@@ -45,7 +45,7 @@ Online scams are increasing rapidly across SMS, emails, and social media platfor
 
 ## Live Demo
 
-Add your deployed link here.
+(https://scamshieldaii.lovable.app)
 
 ## GitHub Repository
 
